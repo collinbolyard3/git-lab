@@ -11,3 +11,12 @@ user.email=collin.bolyard3@gmail.com
 5. It now states that the file README.md has now been commited to git. Only README.md is green.
 
 6. The status states now that both files README.md and answers.md have now been commited to git. They are now both green.
+
+7. On branch master
+nothing to commit, working tree clean
+
+8.commit 20684d471014085d371841eb8c3dc8523fac20ef (HEAD -> master)
+Author: Collin <collin.bolyard3@gmail.com>
+Date:   Tue Sep 1 16:45:13 2026 -0400
+
+    Initial commit

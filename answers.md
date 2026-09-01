@@ -20,3 +20,13 @@ Author: Collin <collin.bolyard3@gmail.com>
 Date:   Tue Sep 1 16:45:13 2026 -0400
 
     Initial commit
+
+9. My repository now has the README.md and answers.md in the web browser repository.
+
+10. There was no change in my local repository becasue I did not use the changes didnt come through to my local repository.
+
+11. The get push did not work becasue I dont have the changes locally. It is telling ke to use the git pull before pushing so the inforation will pull into my local repository.
+
+12. YES! My README.md file updated to add the class and lab day.
+
+13. .  ..  .git  .gitignore  README.md
